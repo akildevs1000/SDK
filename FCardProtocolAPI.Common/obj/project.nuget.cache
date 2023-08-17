@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TGLDl7S5nMxARvlNZqR6COI651zEKjGWX8bC/3x7nwCxd3g0cy3zMiN/p3SgF6g8zAt8kxVDAX3CsLd9faaabg==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\SDK\\FCardProtocolAPI.Common\\FCardProtocolAPI.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SERVER\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

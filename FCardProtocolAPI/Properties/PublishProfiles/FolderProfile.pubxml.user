@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\E\一卡通开发包\人脸机web socket示例\FCardProtocolAPI\bin\Release\publish\</_PublishTargetUrl>
+    <History>True|2023-05-16T07:00:25.8606053Z;True|2023-05-15T14:04:25.7562467+08:00;True|2023-05-15T11:55:49.9947568+08:00;True|2023-05-15T10:32:22.8656694+08:00;True|2023-05-08T15:42:05.4540051+08:00;True|2023-04-28T15:43:48.7255307+08:00;True|2023-04-28T09:23:27.2222069+08:00;True|2023-04-25T17:43:52.9003201+08:00;True|2023-04-23T14:55:03.6335685+08:00;True|2023-04-23T13:33:40.2510139+08:00;True|2023-04-17T09:48:40.9323218+08:00;True|2023-04-17T09:34:58.3549689+08:00;True|2023-04-07T18:04:33.8225983+08:00;True|2023-03-21T14:53:31.3419028+08:00;True|2023-03-21T14:52:07.7608712+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
